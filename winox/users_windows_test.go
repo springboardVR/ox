@@ -3,7 +3,7 @@ package winox_test
 import (
 	"testing"
 
-	"github.com/itchio/ox/winox"
+	"github.com/springboardVR/ox/winox"
 	"github.com/stretchr/testify/assert"
 )
 

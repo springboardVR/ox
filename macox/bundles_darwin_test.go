@@ -3,7 +3,7 @@ package macox_test
 import (
 	"testing"
 
-	"github.com/itchio/ox/macox"
+	"github.com/springboardVR/ox/macox"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"unsafe"
 
-	"github.com/itchio/ox/syscallex"
+	"github.com/springboardVR/ox/syscallex"
 )
 
 // ProcAttr holds the attributes that will be applied to a new process

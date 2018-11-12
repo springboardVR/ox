@@ -8,7 +8,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/itchio/ox/syscallex"
+	"github.com/springboardVR/ox/syscallex"
 	"github.com/itchio/wharf/state"
 	"github.com/pkg/errors"
 )
