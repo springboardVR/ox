@@ -5,7 +5,7 @@ go version
 export GOPATH=$PWD/gopath
 rm -rf $GOPATH
 
-export PKG=github.com/itchio/ox
+export PKG=github.com/springboardVR/ox
 export PATH=$PATH:$GOPATH/bin
 
 mkdir -p $GOPATH/src/$PKG
