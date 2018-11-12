@@ -5,7 +5,8 @@ package macox
 /*
 #cgo CFLAGS: -x objective-c
 #cgo LDFLAGS: -framework Cocoa
-#import <Cocoa/Cocoa.h>
+#import <Foundation/Foundation.h>
+#import <AppKit/AppKit.h>
 #include <stdlib.h>
 
 char *GetExecutablePath(char *cBundlePath) {
